@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Glass with Elsa on it",
+      "price": 23.99
+    },
+    {
+      "id": 2,
+      "name": "M1 MacBook Pro",
+      "price": 1000.5
+    },
+    {
+      "id": 3,
+      "name": "Rainbow Colored Water Bottle",
+      "price": 23.99
+    },
+    {
+      "id": 4,
+      "name": "Tripod",
+      "price": 10.99
+    },
+    {
+      "id": 5,
+      "name": "Sunglasses",
+      "price": 230.99
+    },
+    {
+      "id": 6,
+      "name": "Drawer Organizator",
+      "price": 9.99
+    },
+    {
+      "id": 7,
+      "name": "Mason Jar 50cc",
+      "price": 3.99
+    },
+    {
+      "id": 8,
+      "name": "Flower Pot 10inch",
+      "price": 2.99
+    }
+  ]
+}
